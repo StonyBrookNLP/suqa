@@ -26,8 +26,8 @@ To appear in Proceedings of the 2021 Conference on Empirical Methods in Natural 
 
 - Clone the repository.
 - Store the following pretrained weights in `models` subdirectory.
-    - [suqa_qam_allenai_unifiedqa-t5-base.torch](https://drive.google.com/file/d/1-90vejEyydQkgiA7vl0DnP46h91vxqj0/view?usp=sharing) (1.4GB)
-    - [suqa_explainer_distilbart-cnn-12-6.torch](https://drive.google.com/file/d/1-Wve58Gl5Mi1d6Cv6oztJghpWBRLsfXg/view?usp=sharing) (850.4MB)
+    - [suqa_qam_allenai_unifiedqa-t5-base.torch](https://drive.google.com/file/d/1-Wve58Gl5Mi1d6Cv6oztJghpWBRLsfXg/view?usp=sharing) (1.4GB)
+    - [suqa_explainer_distilbart-cnn-12-6.torch](https://drive.google.com/file/d/1-90vejEyydQkgiA7vl0DnP46h91vxqj0/view?usp=sharing) (850.4MB)
 
 
 ### Load and predict in Python
