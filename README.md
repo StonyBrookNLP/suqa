@@ -22,7 +22,7 @@ To appear in Proceedings of the 2021 Conference on Empirical Methods in Natural 
 
 ## SuQA Python API (prediction only)
 
-### Download SuQA Pretrained weights
+### Download SuQA pretrained weights
 
 - Clone the repository.
 - Store the following pretrained weights in `models` subdirectory.
