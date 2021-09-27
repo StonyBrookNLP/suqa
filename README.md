@@ -6,6 +6,8 @@ Naoya Inoue, Harsh Trivedi, Steven Sinha, Niranjan Balasubramanian and Kentaro I
 Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension.
 To appear in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021).
 
+[preprint](https://arxiv.org/abs/2109.06853)
+
 
 ## News
 - 9/23/2021: Python API (prediction only) released.
